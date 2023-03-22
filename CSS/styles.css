@@ -1,0 +1,25 @@
+body{
+    background-color: #CBE4DE;
+}
+
+h1{
+    color: #2C3333;
+    text-align: center;
+}
+ h3{
+    color: #0E8388;
+}
+
+ .first-line{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 500px;
+
+}
+ 
+hr { 
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
